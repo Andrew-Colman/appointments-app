@@ -72,5 +72,5 @@ DATABASE_URL='mongodb+srv://<user>:<password>@<host>/<db>?retryWrites=true&w=maj
 -   `pages/` <- app pages (server-side/static rendered)
 -   `pages/api` <- next.js serverless api routes
 -   `styles/` <- global styles like: chakra global styles, tailwindcss styles
--   `services` <- custom http client, db connectors,
+-   `services` <- custom http client, db connectors
 -   `utils/` <- utility scripts like: test-utils, mocks setup, ...
