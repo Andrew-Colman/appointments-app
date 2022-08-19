@@ -14,7 +14,6 @@ export default function Navbar({ title }) {
                 padding="1.5rem"
                 alignItems="center"
                 flexWrap="wrap"
-                elevation={1}
                 className="justify-between"
             >
                 <Link href="/">
